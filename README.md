@@ -1,4 +1,4 @@
-# 可达鸭的自我介绍
+![d80ffc7980e7d4099b945eab1a1d960](https://github.com/user-attachments/assets/281d0266-5144-4b42-bd48-6c15233ef8b4)# 可达鸭的自我介绍
 
 <img src="https://img.gamewith.jp/article_tools/pokemon-sv/gfx/logo/054.png" width="200">
 
@@ -42,7 +42,9 @@
 01 环境搭建的截图一
 <img src="https://github.com/user-attachments/assets/91d65c44-ad9a-4530-8d7c-12c705abd27c" alt="图片描述" width="800" />
 01 环境搭建的截图一
-<img src="[./2.png](https://github.com/user-attachments/assets/2856c31a-ac64-4c24-98f5-5593643bb964)" alt="图片描述" width="800" />
+<img src="https://github.com/user-attachments/assets/2856c31a-ac64-4c24-98f5-5593643bb964" alt="图片描述" width="800" />
+
+
 
 ## 我最喜欢的一段代码
 我最喜欢的环境管理工具是conda
