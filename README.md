@@ -1,7 +1,3 @@
-![d80ffc7980e7d4099b945eab1a1d960](https://github.com/user-attachments/assets/281d0266-5144-4b42-bd48-6c15233ef8b4)# 可达鸭的自我介绍
-
-<img src="https://img.gamewith.jp/article_tools/pokemon-sv/gfx/logo/054.png" width="200">
-
 **大家好，我是可达鸭**，*我的身份是宝可梦世界最呆萌的头痛鸭*。以下是我的自我介绍:
 
 ---
